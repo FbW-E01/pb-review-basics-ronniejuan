@@ -1,4 +1,4 @@
-# Review 1 - basics
+<!-- # Review 1 - basics
 
 NOTE! Pay close attention to creating code with good and consistent code style.
 
@@ -12,4 +12,4 @@ NOTE! Pay close attention to creating code with good and consistent code style.
 8. Make a variable and assign a boolean to that variable using a template literal. Make sure that variable can not be changed.
 9. Print the `type` of a variable that has a number value.
 10. Print the `type` of a variable that has a string value.
-11. Print the `type` of a variable that has a boolean value.
+11. Print the `type` of a variable that has a boolean value. -->
